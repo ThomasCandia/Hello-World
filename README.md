@@ -2,4 +2,10 @@
 
 Hello world en C:
 
+# include <stdio.h>
+int main ()
+{
+print f ("Hola Mundo/n");
+return 0;
+}
 
